@@ -111,5 +111,6 @@ This project was built to learn and practice:
 ## 👨‍💻 Author
 
 **Harish Birla**
+birlaharish3@gmail.com
 
 Feel free to fork this repository and contribute or suggest improvements.
